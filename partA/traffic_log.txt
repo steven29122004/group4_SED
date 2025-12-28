@@ -1,0 +1,11 @@
+20:57:42, HimLam, North, AUTO MODE
+20:57:51, HimLam, East, GREEN (MANUAL)
+20:57:51, HimLam, East, MANUAL MODE
+20:58:12, HimLam, East, AUTO MODE
+20:58:47, HimLam, North, GREEN (MANUAL)
+20:58:47, HimLam, North, MANUAL MODE
+20:58:58, HimLam, West, GREEN (MANUAL)
+20:58:58, HimLam, West, MANUAL MODE
+20:59:05, HimLam, South, GREEN (MANUAL)
+20:59:05, HimLam, South, MANUAL MODE
+20:59:18, HimLam, South, AUTO MODE
