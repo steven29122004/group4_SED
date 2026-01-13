@@ -20,10 +20,13 @@ void initIntersection(Intersection &i, const string &name) {
     i.lights[0].state = LightState::GREEN;
 }
 
-// CONFIGURATION 
+
 void setDurations(Intersection &i, int green, int yellow) {
     i.greenDuration = green;
     i.yellowDuration = yellow;
+    if(i.lights[i.currentDirection].state == LightState::GREEN){
+        i.timeRemaining = green;
+    }
 }
 
 // AUTO MODE
